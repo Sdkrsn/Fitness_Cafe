@@ -596,7 +596,7 @@ function App() {
             {[
               {
                 name: "Monthly",
-                price: "$49",
+                price: "₹1500",
                 period: "per month",
                 savings: null,
                 features: [
@@ -612,9 +612,9 @@ function App() {
               },
               {
                 name: "Quarterly",
-                price: "$129",
+                price: "₹4000",
                 period: "per 3 months",
-                savings: "Save $18",
+                savings: "Save ₹500",
                 features: [
                   "Everything in Monthly",
                   "Personal training consultation",
@@ -628,9 +628,9 @@ function App() {
               },
               {
                 name: "Yearly",
-                price: "$499",
+                price: "₹10000",
                 period: "per year",
-                savings: "Save $89",
+                savings: "Save ₹8000",
                 features: [
                   "Everything in Quarterly",
                   "Unlimited guest passes",
